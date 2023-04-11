@@ -1,0 +1,15 @@
+[submodule "src/rifs"]
+	path = src/rifs
+	url = git@github.com:rifs-is-free-speech/rifs.git
+[submodule "src/rifsalignment"]
+	path = src/rifsalignment
+	url = git@github.com:rifs-is-free-speech/rifsalignment.git
+[submodule "src/rifsstatemachine"]
+	path = src/rifsstatemachine
+	url = git@github.com:rifs-is-free-speech/rifsstatemachine.git
+[submodule "src/rifsaugmentation"]
+	path = src/rifsaugmentation
+	url = git@github.com:rifs-is-free-speech/rifsaugmentation.git
+[submodule "src/rifsdatasets"]
+	path = src/rifsdatasets
+	url = git@github.com:rifs-is-free-speech/rifsdatasets.git
