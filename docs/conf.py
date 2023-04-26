@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "rifs is free speech"
+project = "Home"
 copyright = "2022, Anders Stendevad"
 author = "Anders Stendevad"
 
