@@ -19,3 +19,6 @@
 [submodule "datasets/LibriVoxDansk"]
 	path = datasets/LibriVoxDansk
 	url = git@github.com:rifs-is-free-speech/LibriVoxDansk.git
+[submodule "assets/logo-fonts-colors"]
+	path = assets/logo-fonts-colors
+	url = git@github.com:rifs-is-free-speech/logo-fonts-colors.git

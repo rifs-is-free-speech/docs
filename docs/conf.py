@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "docs"
+project = "rifs is free speech"
 copyright = "2022, Anders Stendevad"
 author = "Anders Stendevad"
 
@@ -65,7 +65,12 @@ html_theme = "sphinx_rtd_theme"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = []
+
+def setup(app):
+    app.add_css_file('styles.css')
+
+html_static_path = ['_static']
+html_logo = "../assets/logo-fonts-colors/png/logo-no-background.png"
 
 # Add version to be used in docs
 variables_to_export = [

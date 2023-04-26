@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "Cantarell Regular";
+    src: url("../../assets/logo-fonts-colors/fonts/Cantarell Regular.ttf");
+}
+
+@font-face {
+    font-family: "Khula Regular";
+    src: url("../../assets/logo-fonts-colors/fonts/Khula Regular.ttf");
+}
+
+body {
+    font-family: "Cantarell Regular";
+}
+
+h1 {
+    font-family: "Khula Regular";
+}
+
+h2 {
+    font-family: "Khula Regular";
+}
+
+h3 {
+    font-family: "Khula Regular";
+}
+
+.wy-nav-content {
+    max-width: 1200px !important;
+}
+
+.wy-menu.wy-menu-vertical, .wy-nav-side {
+    background: #010532;
+}
+
+.wy-side-nav-search, .wy-nav-top {
+    background: #1a94ff;
+}
