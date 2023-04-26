@@ -13,3 +13,9 @@
 [submodule "src/rifsdatasets"]
 	path = src/rifsdatasets
 	url = git@github.com:rifs-is-free-speech/rifsdatasets.git
+[submodule "datasets/Den2Radio"]
+	path = datasets/Den2Radio
+	url = git@github.com:rifs-is-free-speech/Den2Radio.git
+[submodule "datasets/LibriVoxDansk"]
+	path = datasets/LibriVoxDansk
+	url = git@github.com:rifs-is-free-speech/LibriVoxDansk.git
