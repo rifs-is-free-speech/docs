@@ -22,3 +22,6 @@
 [submodule "assets/logo-fonts-colors"]
 	path = assets/logo-fonts-colors
 	url = git@github.com:rifs-is-free-speech/logo-fonts-colors.git
+[submodule "datasets/Forskerzonen"]
+	path = datasets/Forskerzonen
+	url = git@github.com:rifs-is-free-speech/Forskerzonen.git
