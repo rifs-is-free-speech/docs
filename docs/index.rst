@@ -4,5 +4,5 @@
 .. toctree::
    :glob:
 
-   out/**
    *
+   out/**
