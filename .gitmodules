@@ -28,3 +28,6 @@
 [submodule "rifstrain"]
 	path = rifstrain
 	url = git@github.com:rifs-is-free-speech/rifstrain.git
+[submodule "src/rifstrain"]
+	path = src/rifstrain
+	url = git@github.com:rifs-is-free-speech/rifstrain.git
