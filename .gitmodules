@@ -25,3 +25,6 @@
 [submodule "datasets/Forskerzonen"]
 	path = datasets/Forskerzonen
 	url = git@github.com:rifs-is-free-speech/Forskerzonen.git
+[submodule "rifstrain"]
+	path = rifstrain
+	url = git@github.com:rifs-is-free-speech/rifstrain.git
