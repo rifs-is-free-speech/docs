@@ -28,3 +28,15 @@
 [submodule "src/rifstrain"]
 	path = src/rifstrain
 	url = git@github.com:rifs-is-free-speech/rifstrain.git
+[submodule "datasets/NSTDanishSpr-kbanken"]
+	path = datasets/NSTDanishSpr-kbanken
+	url = git@github.com:rifs-is-free-speech/NSTDanishSpr-kbanken.git
+[submodule "datasets/DanPASS"]
+	path = datasets/DanPASS
+	url = git@github.com:rifs-is-free-speech/DanPASS.git
+[submodule "datasets/CommonVoiceDansk"]
+	path = datasets/CommonVoiceDansk
+	url = git@github.com:rifs-is-free-speech/CommonVoiceDansk.git
+[submodule "datasets/DanskeTaler"]
+	path = datasets/DanskeTaler
+	url = git@github.com:rifs-is-free-speech/DanskeTaler.git
