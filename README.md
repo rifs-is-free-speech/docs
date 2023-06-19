@@ -25,6 +25,6 @@ If you want to cite this project then you can
 }
 ```
 
-Contact the authors at {eajo,andst}@itu.dk
+Contact the authors for the paper.
 
 # Content
