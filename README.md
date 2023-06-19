@@ -16,14 +16,15 @@ code for your own projects.
 If you want to cite this project then you can
 
 ```
-@misc{
-    stendevad_joensen_2023,
-    journal={Rifs is free speech},
-    publisher={IT University of Copenhagen},
-    author={Stendevad, Anders and Joensen, Emil Anker},
-    year={2023},
-    month={Jun}
+@misc{stendevad_joensen_2023, 
+   title= "Presenting the rifs is free speech toolkit: Unleashing the power of unlabelled speech data to create the Den2Radio ASR corpus (Dissertation)", 
+   school= "IT University of Copenhagen", 
+   author= "Anders Stendevad and Emil Anker Joensen", 
+   year=2023,
+   monht="Jun"
 }
 ```
+
+Contact the authors at {eajo,andst}@itu.dk
 
 # Content
